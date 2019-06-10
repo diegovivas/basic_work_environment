@@ -1,4 +1,1 @@
-	
-0x00. Vagrant
-:  Proyect # 0 to holbertonschool 
- 
+0x00. Vagrant : Proyect # 0 to holbertonschool
